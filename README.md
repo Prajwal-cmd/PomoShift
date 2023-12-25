@@ -1,2 +1,14 @@
 # PomoShift
- Developed a productivity tool using React, Tailwind, and Redux Toolkit that allows users to customize work/rest intervals, iterations, and seamlessly transition between tasks. Implemented automatic iteration management for enhanced productivity.
+PomoShift is a productivity-enhancing application built with React, Tailwind, and Redux Toolkit. It's designed to customize work intervals, rest times and iterations .
+
+## Features
+
+- **Customizable Settings:** Define work and rest durations, iteration counts, and pauses.
+- **Automatic Transition:** Smoothly switch between work and rest phases.
+- **Dynamic Iteration Management:** Automatic iteration decrease for enhanced productivity.
+
+## Tech Stack
+
+- **Frontend:** React
+- **Styling:** Tailwind CSS
+- **State Management:** Redux Toolkit
